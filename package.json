@@ -1,0 +1,24 @@
+{
+  "name": "typescript-cli-task-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmgrgo/typescript-cli-task-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jmgrgo/typescript-cli-task-manager/issues"
+  },
+  "homepage": "https://github.com/jmgrgo/typescript-cli-task-manager#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
